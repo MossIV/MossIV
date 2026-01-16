@@ -1,7 +1,7 @@
 ## Welcome, I'm Wa Ben Wong
 
 # 💫 About Me:
-I'm currently working on a discord music bot in python with full features.<br>While learning about asynchronous operations in python to make my bot seamless.<br><br>Also a huge gamer and passionate cook in the kitchen
+I'm currently working on a trading bot in python with full features.<br>This is proving to be quite the challenge as I have to learn from multiple disciplines such as interpreting trading data and signals to implement this into python<br><br>Also a huge gamer and passionate cook in the kitchen
 
 
 ## 🌐 Socials:
